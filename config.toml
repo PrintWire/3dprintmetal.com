@@ -1,0 +1,9 @@
+baseURL = "https://3dprintmetal.com/"
+languageCode = "en-us"
+title = "3D PRINTMETAL"
+
+[params]
+tagline = "Precision Metal Parts, Printed to Perfection"
+description = "Advanced metal additive manufacturing for aerospace, medical, and industrial applications."
+siteName = "3D PRINTMETAL"
+contactEmail = "maxdavisgroup@gmail.com"
